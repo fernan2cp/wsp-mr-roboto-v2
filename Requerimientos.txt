@@ -1,0 +1,8 @@
+# Antes de comenzar
+npm init -y
+
+# npm install Requerimientos.txt
+
+npm i whatsapp-web.js express qrcode-terminal
+nodemon -D
+
