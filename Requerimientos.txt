@@ -6,3 +6,4 @@ npm init -y
 npm i whatsapp-web.js express qrcode-terminal
 nodemon -D
 
+## En caso de error (reading 'LegacyPhoneFeatures'), ver: https://github.com/Julzk/whatsapp-web.js/commit/668be3bd8442235530ee11f1cb397e929e2f670b
