@@ -1,4 +1,4 @@
-// Este proyecto se encuentra abandonado.
+// Este proyecto se encuentra abandonado...
 
 const { Client, LocalAuth   } = require('whatsapp-web.js');
 //const { Client } = require('whatsapp-web.js');
